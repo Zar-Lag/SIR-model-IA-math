@@ -1,3 +1,5 @@
+#ORIGINAL CODE FROM https://scipython.com/book/chapter-8-scipy/additional-examples/the-sir-epidemic-model/
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl
