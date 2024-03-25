@@ -1,3 +1,5 @@
+#ORIGINAL CODE FROM https://colab.research.google.com/github/jckantor/CBE30338/blob/master/docs/03.09-COVID-19.ipynb#scrollTo=OztoD-uH3ffm
+
 import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
